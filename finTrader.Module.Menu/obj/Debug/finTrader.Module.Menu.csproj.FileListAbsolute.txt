@@ -1,0 +1,2 @@
+c:\users\mantonijevic\documents\visual studio 2015\Projects\finTrader\finTrader.Module.Menu\bin\Debug\finTrader.Module.Menu.dll
+c:\users\mantonijevic\documents\visual studio 2015\Projects\finTrader\finTrader.Module.Menu\bin\Debug\finTrader.Module.Menu.pdb
